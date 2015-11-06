@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Organizer
+        psr4_prefix: Organizer
+        src_path: app
